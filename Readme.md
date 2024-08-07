@@ -20,13 +20,7 @@ To get started with this project, you need to follow these steps:
     cd disaster-tweets-classification
     ```
 
-2. **Install the necessary dependencies**:
-    Make sure you have Python and pip installed. Then, run:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Jupyter notebook**:
+2. **Run the Jupyter notebook**:
     Open the `Disaster_Tweets_Lab_Final.ipynb` notebook in Jupyter and follow the instructions to train and evaluate the models.
 
 ## Contents
